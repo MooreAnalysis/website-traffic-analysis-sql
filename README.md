@@ -79,12 +79,6 @@ The analysis is based on three relational tables:
 
 ---
 
-## Visualization
-- Charts and graphs to summarize trends
-- Free dashboard to present insights clearly to stakeholders
-
----
-
 ## Limitations & Future Work
 If more time were available, additional analysis would include:
 - A/B testing to compare landing page conversion rates
