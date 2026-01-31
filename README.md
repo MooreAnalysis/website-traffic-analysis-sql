@@ -32,7 +32,7 @@ The analysis is based on three relational tables:
 ## Tools & Technologies
 - SQL (PostgreSQL via pgAdmin)
 - CSV data sources
-- Data visualization (charts and dashboard)
+- Data visualization with Tableau
 
 ---
 
